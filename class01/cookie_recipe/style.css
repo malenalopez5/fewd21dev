@@ -1,0 +1,23 @@
+body {
+	background: #FFE;
+	border: 1px solid black;
+}
+
+img{
+		border-style: solid; 
+	border-color: :black;
+	border-width: 11px;
+}
+
+/* class */
+
+.auxHeader {
+		color:#887;
+}
+/* ID */
+
+#top
+
+a {
+	color:#900;
+}
