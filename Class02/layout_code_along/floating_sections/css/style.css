@@ -22,6 +22,12 @@ html {
     margin: 30px; 
   }
 
+.sitenav #newitem {
+  margin-left: 390px;
+  padding-left: 0px;
+  background: purple;
+}
+
 .sitenav li { 
   display: inline-block;
   color: white;
