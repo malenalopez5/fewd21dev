@@ -151,6 +151,7 @@ a {
   font-weight: 600;
 }
 
+
 .button {
   border-radius: 5px;
   font-weight: 800;
@@ -227,6 +228,22 @@ a {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+    text-align: right; 
+    color: #033048; 
+    font-weight:600; 
+}
+
+.hide { 
+display: none;
+
+}
+
 
 
 
