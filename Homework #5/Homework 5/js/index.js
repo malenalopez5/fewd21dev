@@ -6,7 +6,7 @@ $(document).ready(function() {
 	// Reset submit button
    $("#submit-btn").trigger("reset");
 
-    // Get value of the #city-type input and handle for capitalization
+    // Get value of the #city-type input and handle capitalization
     var city = $('#city-type').val();
     $('#city-type').val('');
     city = city.toLowerCase().trim();
